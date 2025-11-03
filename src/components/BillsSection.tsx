@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Badge } from "@/components/ui/badge"
 import { Plus, Trash2, CheckCircle2, Circle } from "lucide-react"
-import type { Bill } from "@/app/page"
+import type { Bill } from "@/App"
 
 type BillsSectionProps = {
     bills: Bill[]

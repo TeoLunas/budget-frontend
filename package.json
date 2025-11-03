@@ -1,5 +1,6 @@
 {
-  "name": "budget",
+  "name": "budget-frontend",
+  "homepage": "https://teolunas.github.io/budget-frontend/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
